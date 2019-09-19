@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  background-color: yellow;
+}
+
+body {
+  background-color: green;
+}
+
+li{
+  background-color: gainsboro;
+}
+
+#wow {
+  background-color: orange;
+}
+
+.two{
+  background-color: red;
+}
+
+img {
+  width: 100%;
+}
